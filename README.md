@@ -3,7 +3,7 @@
 ## 👋 Hi, I’m Jordyn
 :mount_fuji: Living in Colorado <br>
 :blue_book: I love all things technology, and I love to learn! <br>
-🌱 I’m currently continuing my learning in Python and shell scripting <br>
+🌱 I’m currently continuing my learning in Python and Shell Scripting <br>
 :dancers: I’m looking to collaborate on open source/commercial projects <br>
 :octocat: Fun fact: I am a crazy cat lady<br>
 
