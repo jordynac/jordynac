@@ -1,4 +1,4 @@
-<img src="https://github.com/jordynac/literate-palm-tree/blob/main/Bitmoji.png?raw=true" align="right">
+<img src="https://github.com/jordynac/jordynac/blob/main/Bitmoji.png?raw=true" align="right">
 
 ## 👋 Hi, I’m Jordyn
 :mount_fuji: Living in Colorado <br>
